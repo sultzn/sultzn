@@ -1,4 +1,4 @@
-learning lua, python, c#
+learning lua, python, c++
 
 making some scripts for lego game
 
