@@ -1,5 +1,1 @@
-learning lua, python, c++
-
-making some scripts for lego game
-
-sl6an#7777
+Plan: Python, Java, HTML, JavaScript, CSS, C#, C++
